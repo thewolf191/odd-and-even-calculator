@@ -6,3 +6,7 @@ a.out
 a.out
 *.exe
 /build/
+*.o
+a.out
+*.exe
+/build/
